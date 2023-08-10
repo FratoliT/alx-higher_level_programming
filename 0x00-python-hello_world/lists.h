@@ -6,9 +6,7 @@
  * struct listint_s - linked list
  * @n: int
  * @next: next point of node
- *
  * Description: singly linked list node structure
- * for Holberton project
  */
 typedef struct listint_s
 {
